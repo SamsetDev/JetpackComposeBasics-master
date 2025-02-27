@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.educational.jetpackcomposebasics_master"
+    namespace = "com.educational.jetpackbasic"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.educational.jetpackcomposebasics_master"
+        applicationId = "com.educational.jetpackbasic"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

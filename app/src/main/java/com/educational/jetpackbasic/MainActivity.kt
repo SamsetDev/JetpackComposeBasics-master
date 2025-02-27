@@ -12,7 +12,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.core.view.WindowCompat
 import androidx.navigation.compose.rememberNavController
-import com.educational.jetpackbasic.component.BottomView
+import com.educational.jetpackbasic.component.bottomView.BottomView
 import com.educational.jetpackbasic.component.Toolbar
 import com.educational.jetpackbasic.component.bottomView.BottomNavigationItem
 import com.educational.jetpackbasic.navigation.SamNavigation

@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "JetpackComposeBasics-master"
+rootProject.name = "JetpackComposeBasics"
 include(":app")

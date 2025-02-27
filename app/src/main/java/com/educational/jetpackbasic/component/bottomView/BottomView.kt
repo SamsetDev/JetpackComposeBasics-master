@@ -1,4 +1,4 @@
-package com.educational.jetpackbasic.component
+package com.educational.jetpackbasic.component.bottomView
 
 import androidx.compose.foundation.layout.height
 import androidx.compose.material3.Icon
@@ -13,7 +13,6 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.dp
 import androidx.navigation.NavController
 import androidx.navigation.compose.currentBackStackEntryAsState
-import com.educational.jetpackbasic.component.bottomView.BottomNavigationItem
 
 /**
  * Created by Samset on 2/27/25.

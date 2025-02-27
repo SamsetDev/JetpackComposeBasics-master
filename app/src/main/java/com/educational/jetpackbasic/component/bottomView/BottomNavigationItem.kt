@@ -12,8 +12,8 @@ import androidx.compose.ui.graphics.vector.ImageVector
 Copyright (c) 2025  All rights reserved.
  */
 sealed class BottomNavigationItem(val route:String, val resource: ImageVector, val title:String){
-    object Home : BottomNavigationItem("One",Icons.Filled.Home,"Home")
-    object Profile : BottomNavigationItem("Two",Icons.Filled.AccountCircle,"Profile")
-    object Settings : BottomNavigationItem("Three",Icons.Filled.Settings,"Settings")
-    object More : BottomNavigationItem("Four",Icons.Filled.MoreVert,"More")
+    object Home : BottomNavigationItem("Home",Icons.Filled.Home,"Home")
+    object Profile : BottomNavigationItem("Profile",Icons.Filled.AccountCircle,"Profile")
+    object Settings : BottomNavigationItem("Settings",Icons.Filled.Settings,"Settings")
+    object More : BottomNavigationItem("More",Icons.Filled.MoreVert,"More")
 }
